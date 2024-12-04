@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Lucida Sans Regular', sans-serif;
+    background-color: #d69c9c;
+    color: #d32f2f;
+    text-align: left;
+}
+
+.container {
+    max-width: 600px;
+    background-color: #b4b4b4;
+    border: 4px solid #691919;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #691919; 
+}
+
+p {
+    font-size: 1.2rem;
+    color: #4b4b4b; 
+}
